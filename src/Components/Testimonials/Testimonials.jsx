@@ -38,7 +38,7 @@ const slideBackward = () => {
                 <img src={user_1} alt="" />
                 <div>
                   <h3>William Jackson</h3>
-                  <span>Edusity, USA</span>
+                  <span>Edusity, USA</span> 
                 </div>
               </div>
               <p>
